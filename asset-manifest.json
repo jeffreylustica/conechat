@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/conechat/static/css/main.37448acd.chunk.css",
+    "main.js": "/conechat/static/js/main.c7c13a02.chunk.js",
+    "main.js.map": "/conechat/static/js/main.c7c13a02.chunk.js.map",
+    "runtime-main.js": "/conechat/static/js/runtime-main.6c1fead1.js",
+    "runtime-main.js.map": "/conechat/static/js/runtime-main.6c1fead1.js.map",
+    "static/js/2.dd936782.chunk.js": "/conechat/static/js/2.dd936782.chunk.js",
+    "static/js/2.dd936782.chunk.js.map": "/conechat/static/js/2.dd936782.chunk.js.map",
+    "index.html": "/conechat/index.html",
+    "precache-manifest.ccb7ed42f9fac1c92eedbc6159499e0a.js": "/conechat/precache-manifest.ccb7ed42f9fac1c92eedbc6159499e0a.js",
+    "service-worker.js": "/conechat/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/conechat/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.dd936782.chunk.js.LICENSE.txt": "/conechat/static/js/2.dd936782.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c1fead1.js",
+    "static/js/2.dd936782.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.c7c13a02.chunk.js"
+  ]
+}
